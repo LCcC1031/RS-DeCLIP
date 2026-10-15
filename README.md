@@ -80,7 +80,7 @@ Set `OPENAI_API_KEY` and `OPENAI_BASE_URL` in your local environment before runn
 
 ## Stage-1 checkpoint
 
-`NOW_BEST_R1_21.04.pt` is the Stage-1 checkpoint. Publish it separately as a GitHub Release asset rather than committing it to Git. See [checkpoint information](docs/checkpoints.md) for its checksum. The pretrained checkpoints are not included in the source ZIP.
+`NOW_BEST_R1_21.04.pt` is the Stage-1 checkpoint. [Download the checkpoint](https://github.com/LCcC1031/RS-DeCLIP/releases/download/v1.0.0/NOW_BEST_R1_21.04.pt) from [the release](https://github.com/LCcC1031/RS-DeCLIP/releases/tag/v1.0.0). See [checkpoint information](docs/checkpoints.md) for its checksum. The pretrained checkpoints are not included in the source ZIP.
 
 ## Evaluation
 
