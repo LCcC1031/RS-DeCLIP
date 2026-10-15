@@ -1,0 +1,5 @@
+git+https://github.com/openai/CLIP.git
+clip-benchmark
+numpy
+Pillow
+tqdm
